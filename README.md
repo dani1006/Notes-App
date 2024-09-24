@@ -4,7 +4,7 @@ Notes App adalah aplikasi catatan yang memanfaatkan RESTful API sebagai sumber d
 
 - **Mengelola Catatan**: 
   - Tambahkan catatan baru.
-  - Dapatkan dan tampilkan daftar catatan yang tersimpan.
+  - Dapatkan dan tampilkan daftar catatan yang diarsipkan.
   - Hapus catatan yang tidak diperlukan.
 
 ## Teknologi yang Digunakan
